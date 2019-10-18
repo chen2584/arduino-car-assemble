@@ -7,3 +7,5 @@
 - [x] 1 x Ultrasonic Sensor module
 - [x] 1 x Ultrasonic Sensor Arcylic stand
 - [x] 1 x Serial Bluetooth module
+- [x] 1 x 4-Digit Display module
+
