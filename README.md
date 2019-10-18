@@ -9,3 +9,4 @@
 - [x] 1 x Serial Bluetooth module
 - [x] 1 x 4-Digit Display module
 
+- [x] 4 x Gear Motor with Connection Wires(15cm)
