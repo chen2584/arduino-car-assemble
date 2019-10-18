@@ -5,3 +5,4 @@
 - [x] 1 x 50cm USB Cable
 - [x] 1 x IO Expansion Shield
 - [x] 1 x Ultrasonic Sensor module
+- [x] 1 x Ultrasonic Sensor Arcylic stand
